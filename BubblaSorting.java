@@ -19,5 +19,7 @@ public class BubblaSorting {
 			System.out.println(num);
 		}
 		System.out.println(Arrays.toString(nums));
+		
 	}
+	
 }

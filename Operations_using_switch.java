@@ -1,5 +1,5 @@
 package javaprojects;
-import java.util.*;
+
 import java.util.Scanner;
 
 public class Operations_using_switch {
@@ -50,6 +50,7 @@ public class Operations_using_switch {
 		if(!flag) {
 			System.out.println("Exited");
 	}
+		sc.close();
 	}
-
 }
+
